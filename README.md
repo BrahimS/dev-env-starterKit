@@ -1,2 +1,2 @@
-# js-dev-env-demo-api
-API for JS Dev Env Demo in Pluralsight course
+# dev-env
+Small API built in Node and Express hosted on Heroku",
