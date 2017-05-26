@@ -1,0 +1,6 @@
+{
+  "name": "Node API",
+  "description": "Small API built in Node and Express hosted on Heroku",
+  "repository": "https://github.com/BrahimS/dev-env-starterKit.git",
+  "keywords": ["node", "express", "static"]
+}
